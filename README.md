@@ -6,7 +6,7 @@ This is a final project for EE8223: Deep Learning
 
 It implements a object detection algorithm, Faster R-CNN, to detect multiple people wearing masks, not wearing a mask, or the mask is worn incorrectly. 
 
-![alt text](https://github.com/abdulbhutta/Mask-Detection-Using-Faster-RCNN/blob/main/Image/Mask_worn.png)
+![alt text](https://github.com/abdulbhutta/Mask-Detection-Using-Faster-RCNN/blob/main/Image/Mask_Image.png)
 
 ## Getting Started
 
